@@ -700,6 +700,8 @@ opacity: 1;
 .ball-right{
 
 	top: 15%;
+	animation: ballrightan 11s forwards infinite linear;
+
 }
 .ball-small{
 	top: 48px;
